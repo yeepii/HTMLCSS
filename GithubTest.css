@@ -1,7 +1,3 @@
-p{
+.header p{
     color: red;
-    background: gray;
-}
-.test p{
-    color: blue;
 }
